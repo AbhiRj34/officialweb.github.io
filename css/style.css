@@ -168,7 +168,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url(https://github.com/AbhiRj34/officialweb.github.io/blob/main/image/Untitled%20design.png);
+    background: url(../image/Untitled design.png);
     height: 100vh;
     color: #fff;
     min-height: 500px;
